@@ -5,7 +5,8 @@ const App = () => {
   return (
     <div>
       <Routes>
-        <Route  />
+        {/* User Layout */}
+        {/* Admin Layout */}
       </Routes>
     </div>
   )
